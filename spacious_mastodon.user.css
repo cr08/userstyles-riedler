@@ -64,7 +64,7 @@ on/off switch instead of 0 width because stylus likes to replace 0 with the defa
 	}
 }
 
-@-moz-document domain("mas.to"), domain("mastodon.social"), domain("mastodon.coffee"), domain("mstdn.social"), domain("mastodon.art"), domain("mastodon.online"), domain("mastodon.lol"), domain("neurodifferent.me") {
+@-moz-document domain("mas.to"), domain("mastodon.social"), domain("mastodon.coffee"), domain("mstdn.social"), domain("mastodon.art"), domain("mastodon.online"), domain("mastodon.lol"), domain("neurodifferent.me"), domain("geeknews.chat"), domain("bsd.network"), domain("fosstodon.org"), domain("mastodon.gamedev.place"), domain("tech-savvy.social"), domain("universeodon.com"), domain("twit.social"), domain("mastodon.cloud"), domain("mastodon.world"), domain("digipres.club"), domain("hostux.social"), domain("aus.social"), domain("sfba.social"), domain("masto.ai"), domain("nerdculture.de"), domain("xoxo.zone"), domain("mastodonapp.uk"), domain("journah.host"), domain("hachyderm.io") {
 	/* makes the columns expand to the full width of the screen */
 	.drawer,
 	.column{
